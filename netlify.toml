@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "https://seafowl.io/docs/:splat"
+  status = 200
